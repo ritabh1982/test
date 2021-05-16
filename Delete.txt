@@ -5,4 +5,4 @@ new branch 3rd change -- merge no conflict because master code has been committe
 master 2nd change
 new branch 3rd change 
 new branch 4th change
-New branch code for cherry pick. Second commit.
+New branch code for cherry pick
