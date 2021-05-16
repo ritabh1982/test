@@ -3,3 +3,5 @@ master 1st change
 new branch 2nd change-- merge issue so committed in the master branch
 new branch 3rd change -- merge no conflict because master code has been committed
 master 2nd change
+new branch 3rd change 
+new branch 4th change
