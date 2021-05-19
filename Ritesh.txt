@@ -1,2 +1,5 @@
 1st master comment
 patch comment
+revert merge
+XXX Revert it 
+YYY New revert change
