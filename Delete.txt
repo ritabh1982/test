@@ -6,3 +6,4 @@ pll1
 stash example
 after stash code change
 1st stash modification
+git stash apply
