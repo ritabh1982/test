@@ -1,3 +1,8 @@
 1st change in eclipse
 2nd change
+<<<<<<< HEAD
 1st remote change
+=======
+3rd change
+1st remote change
+>>>>>>> 7f1b70e (conflict from remote commit)
