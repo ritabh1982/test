@@ -1,14 +1,2 @@
-<<<<<<< HEAD
 1st remote
-=======
-newbranch code
-second code change
-Parallel branch 
-master code
-pll1
-stash example
-after stash code change
-1st stash modification
-git stash apply
-git tag 1st
->>>>>>> 7f1b70e (conflict from remote commit)
+1st Local
