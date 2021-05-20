@@ -1,6 +1,3 @@
 1st remote
-<<<<<<< HEAD
 2nd remote
-=======
 1st local
->>>>>>> 6fbf978 (local change)
