@@ -1,10 +1,1 @@
-newbranch code
-second code change
-Parallel branch 
-master code
-pll1
-stash example
-after stash code change
-1st stash modification
-git stash apply
-git tag 1st
+1st remote
