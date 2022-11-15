@@ -1,3 +1,5 @@
 1st remote
 1st Local
 delete
+delete1
+delete2
