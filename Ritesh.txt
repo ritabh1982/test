@@ -1,3 +1,0 @@
-1st remote
-2nd remote
-1st local
